@@ -1,12 +1,14 @@
-# SpaceX API
 # Intro to APIs
 
-###Explore SpaceX API documentation
+###### Goal
+Get acquainted to making requests and displaying the data in json. 
+
+Explore SpaceX API documentation
 [https://github.com/r-spacex/SpaceX-API/wiki]
 
-*Use requests library to send requests
-*Retrieve and print data for all launchpads
+*Use requests library to send requests*
+1.Retrieve and print data for all launchpads
 ![alt text](spaceX_1.png)
 
-*Retrieve and print data for one launchpads
+2.Retrieve and print data for one launchpads
 ![alt text](spaceX_2.png)
