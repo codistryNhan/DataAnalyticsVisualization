@@ -6,7 +6,7 @@
 
 *Use requests library to send requests
 *Retrieve and print data for all launchpads
-(spaceX_1.png)
+![alt text](spaceX_1.png)
 
 *Retrieve and print data for one launchpads
-(spaceX_2.png)
+![alt text](spaceX_2.png)
