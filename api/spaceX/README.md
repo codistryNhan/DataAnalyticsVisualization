@@ -3,7 +3,7 @@
 ### Goal
 Get acquainted to making requests and displaying the data in json.
 
-**Use requests library to send requests**
+*Use **'requests'** library to send requests*
 
 1.Explore SpaceX API documentation
 [https://github.com/r-spacex/SpaceX-API/wiki]
